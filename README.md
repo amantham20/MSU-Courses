@@ -4,9 +4,14 @@ The following is coursework that I have completed at MSU
 
 # Mathematics
 
+
+<details open>
+<summary>Calculus</summary>
+
 ## Calculus
 
 ### Calc 1 MTH 132
+Fun Calc Class.
 #### concepts:
 1. Functions and Limits (ch 1)
 2. Derivatives (ch 2)
@@ -17,6 +22,7 @@ The following is coursework that I have completed at MSU
 GPA: 4.0 
 
 ### Calc 2 MTH 133
+My favorite Calc by far.
 #### concepts:
 1. Applications of Integration (ch 5)
 2. Inverse Functions (ch 6)
@@ -28,6 +34,7 @@ GPA: 4.0
 GPA: 4.0 
 
 ### Calc 3 MTH 234
+A lot of intresting 3D math. Atleast i didn't have to prove anything... yet.
 #### concepts
 1. Vectors and Geometry of Space (ch 12)
 2. Vector Functions (ch 13)
@@ -38,14 +45,25 @@ GPA: 4.0
 GPA: 3.5
 
 ### Differential Equations  MTH 235
-#### concepts
 Solved a lot of long problems. SMH. 
-
+#### concepts
 1) Separable and exact equations. 
 2) Linear equations and variation of parameters. 
 3) Higher order linear equations. Laplace transforms. 
 4) Systems of first-order linear equations. 
 5) partial differential equations and Fourier series.
+</details>
 
-### MTH 310 Abstract Algebra
-#### 
+
+## Higher Level Courses
+### Abstract Algebra I MTH 310
+#### Concepts
+
+
+
+### Introduction to Formal Proofs(Transitions) MTH 299
+Started solving long proofs.
+#### Concepts
+
+
+
