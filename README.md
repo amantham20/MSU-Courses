@@ -198,6 +198,7 @@ GPA: 4.0
 #### Concepts:
 1) Dynamic Programming
 2) Greedy Algorithms
+3) A lot more graphs
 
 
 
