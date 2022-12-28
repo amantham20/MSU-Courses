@@ -106,6 +106,8 @@ Started solving long proofs.
 5) Modular arithmetic
 6) Ideals
 
+GPA: 4.0
+
 # Computer Science
 
 ### Intro to Computer Science 2 CSE 232
@@ -191,6 +193,14 @@ GPA : 4.0
    3) A* Search
    4) DFS
    5) BFS
+
+GPA: 4.0
+
+### Computer Systems CSE 325
+
+GPA: 4.0
+
+### Software Engineering CSE 325
 
 GPA: 4.0
 
