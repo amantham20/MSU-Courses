@@ -186,7 +186,7 @@ GPA: 4.0
 6) Agent Based Modeling
 
 Project(100%):
-- Using Genetic Algorithms to solve the traveling salesman problem
+- Using Genetic Algorithms to solve the traveling salesman problem <br />
 
 
 GPA: 4.0
