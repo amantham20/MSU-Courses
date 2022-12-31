@@ -5,7 +5,7 @@ The following is coursework that I have completed at MSU
 # Mathematics
 
 
-<details open>
+<details close>
 <summary>Calculus</summary>
 
 ## Calculus
