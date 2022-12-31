@@ -198,11 +198,84 @@ GPA: 4.0
 
 ### Computer Systems CSE 325
 #### Concepts
-1) 
+1) Architecture
+   1) Processors
+      - CPU organization
+      - Instruction sets
+      - Interrupts and interrupt handeling
+    2) Memory
+       - Memory and Memory Hierarchy
+       - Cache Organization
+       - Virtual Memory and Implementations 
+   3) Input/Output
+      - Local I/O and DMA
+      - Network I/O
+2) Operating Systems
+   1) Processes
+      - Process elements and time scling
+      - Role of the process control block
+      - System calls
+      - Signals
+   2) Kernal Operations
+      - Process Scheduling
+      - Process Creation/Termination
+      - Managing Virtual Memory
+      - Deadlocks
+   3) File Systems and Virtualization
+      - File System Organization and structure
+      - Role of the file system in virtualization
+      - Virtualization and Virtual Machines
+3) Concurrency and Networking
+   1) Threads and multi-threaded programming
+      - User-level threads
+      - Kernel-level threads
+      - POSIX threads(Pthreads)
+      - Concurrency control mechanisms
+   2) Packet Switching and Internet Protocal
+      - Packet switching
+      - Circuit switching
+      - Internet Protocal Stack
+      - IP Addressing and Internet routing
+      - TCP and reliable communication
+      - Sockets, DHCP, DNS, NAT and HTTP
+
+LAB's:
+1) Caching
+2) Signals and Processes
+3) Pthreads and Deadlocks
 
 GPA: 4.0
 
-### Software Engineering CSE 325
+### Software Engineering CSE 335
+#### Concepts:
+1) Introduction to Object Oriented Programming
+2) Pointer and Smart Pointers
+3) Unit Testing and Debugging
+4) wxWidgets Library and GUI
+5) XML saving and loading
+6) Design Patterns
+   1) Itterator Pattern
+   2) Visitor Pattern
+   3) Observer Pattern
+7) Keyframe Animation
+8) UML Diagrams
+
+Projects:
+1) Angry Sparty ( 1 Month Apporx. [421 Commits])
+   1) Led a team of 4 to create a game using wxWidgets and BOX2D
+   2) Won the Design Award
+   3) Designed UML Diagrams
+
+2) Harold's Magic Musical Machine Design (3 Days)
+   - Built a UML Diagram for the project.
+   - Lead a team of 4 to create and optimize the design.
+
+3) Harold's Magic Musical Machine Implementation (1 week [48 Commits])
+   -  Built the project using wxWidgets
+   -  Hell week
+   -  100+ hours of work
+
+
 
 GPA: 4.0
 
