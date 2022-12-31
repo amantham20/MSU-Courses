@@ -11,7 +11,7 @@ The following is coursework that I have completed at MSU
 ## Calculus
 
 ### Calc 1 MTH 132
-Fun Calc Class.
+Wait why cant my answer be in cm/s^2??
 #### concepts:
 1. Functions and Limits (ch 1)
 2. Derivatives (ch 2)
@@ -22,7 +22,7 @@ Fun Calc Class.
 GPA: 4.0 
 
 ### Calc 2 MTH 133
-My favorite Calc by far.
+These series problems are fun!
 #### concepts:
 1. Applications of Integration (ch 5)
 2. Inverse Functions (ch 6)
@@ -34,7 +34,8 @@ My favorite Calc by far.
 GPA: 4.0 
 
 ### Calc 3 MTH 234
-A lot of intresting 3D math. Atleast i didn't have to prove anything... yet.
+A lot of intresting 3D math. Atleast i didn't have to prove anything... yet. 
+(Intresting period of LIFE LMAO)
 #### concepts
 1. Vectors and Geometry of Space (ch 12)
 2. Vector Functions (ch 13)
@@ -45,7 +46,7 @@ A lot of intresting 3D math. Atleast i didn't have to prove anything... yet.
 GPA: 3.5
 
 ### Differential Equations  MTH 235
-Solved a lot of long problems. SMH. 
+Solved a lot of long problems. SMH. (without a calculator 😡)
 #### concepts
 1) Separable and exact equations. 
 2) Linear equations and variation of parameters. 
@@ -59,7 +60,7 @@ GPA: 4.0
 
 
 ### Matrix Algebra MTH 314
-used python to solve a lot of linear algebra problems.
+at least we are not solving these in pencil and paper!
 #### concepts
 
 1) Martix multiplication.
@@ -91,6 +92,7 @@ Started solving long proofs.
 8) Truth tables
 
 ### Statistics for Engineers MTH 351 (pilot course)
+Still computing if P(Life) == 42
 #### Concepts
 
 1) Probability Distributions
@@ -116,6 +118,7 @@ Started solving long proofs.
 
 ## Higher Level Courses
 ### Abstract Algebra I MTH 310
+we have come far from counting just sheep.
 #### Concepts
 
 1) Arithmetic
@@ -134,8 +137,8 @@ GPA: 4.0
 # Computer Science
 
 ### Intro to Computer Science 2 CSE 232
+(TO THE MOON! 🚀)
 C++ concepts. using STL algorithms to solve problems.
-
 #### Concepts:
 1) Projects:
    1) Specilized Strings
@@ -155,6 +158,7 @@ GPA: 4.0
 
 
 ### Discete Mathematics CSE 260
+Logic and counting??? Kinda wack.
 #### Concepts:
 1) Sets
 2) Predicate logic
@@ -168,6 +172,7 @@ GPA: 4.0
 
 
 ### Computational Modeling and Data Science CMSE 201
+Python is kinda fun.
 #### Concepts:
 1) Intro to Python
 2) Using Python to solve problems
@@ -193,7 +198,7 @@ GPA: 4.0
 
 
 ### Computer Architecture and Organization CSE 320
-
+Circuts are fun for sure. Assembly depends on the day.
 #### Concepts:
 1) Instruction set architecture
 2) logical circuit design
@@ -228,6 +233,7 @@ GPA : 4.0
 
 
 ### Data Structures and Algorithms CSE 331
+O(FUN)
 #### Concepts:
 1) Linked Lists
 2) Hash Tables
@@ -246,6 +252,7 @@ GPA : 4.0
 GPA: 4.0
 
 ### Computer Science Ethics CSE 300
+Do no bad things.
 #### Concepts:
 1) Ethical Issues in Computer Science
 2) Freedom of Speech
@@ -265,6 +272,7 @@ GPA: 4.0
 GPA: 4.0
 
 ### Computer Systems CSE 325
+A lot of this is just made up.
 #### Concepts
 1) Architecture
    1) Processors
@@ -315,6 +323,7 @@ LAB's(100%):
 GPA: 4.0
 
 ### Software Engineering CSE 335
+Coding Coding Coding Coding Coding Coffee Coding
 #### Concepts:
 1) Introduction to Object Oriented Programming
 2) Pointer and Smart Pointers
