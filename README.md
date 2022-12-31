@@ -266,7 +266,7 @@ Projects:
    2) Won the Design Award
    3) Designed UML Diagrams
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/48414198/210134413-0df9aa53-1ce1-4fc8-85fa-6fa05a3023b6.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/48414198/210134413-0df9aa53-1ce1-4fc8-85fa-6fa05a3023b6.png">
 
 
 2) Harold's Magic Musical Machine Design (3 Days)
@@ -278,7 +278,7 @@ Projects:
    -  Hell week
    -  100+ hours of work
 
-<img width="500" alt="Project2" src="https://user-images.githubusercontent.com/48414198/210134260-cfd37373-a2a4-453c-8290-d7ec444b6cca.png">
+<img width="700" alt="Project2" src="https://user-images.githubusercontent.com/48414198/210134260-cfd37373-a2a4-453c-8290-d7ec444b6cca.png">
 
 
 GPA: 4.0
