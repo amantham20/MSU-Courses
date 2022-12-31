@@ -89,7 +89,30 @@ Started solving long proofs.
 6) Proof by Cases
 7) Proof by Induction
 8) Truth tables
-   
+
+### Statistics for Engineers MTH 351 (pilot course)
+#### Concepts
+
+1) Probability Distributions
+2) Conditional Probability
+3) Bayes Theorem
+4) Random Variables
+5) Expectation
+6) Variance
+7) Standard Deviation
+8) Covariance
+9) Correlation
+10) Normal Distribution
+11) Binomial Distribution
+12) Poisson Distribution
+13) Exponential Distribution
+14) Uniform Distribution
+15) Chi-Squared Distribution
+16) Student's t Distribution
+18) Set Theory
+19) Regression
+
+
 
 ## Higher Level Courses
 ### Abstract Algebra I MTH 310
@@ -143,6 +166,32 @@ GPA: 4.0
 
 GPA: 4.0
 
+
+### Computational Modeling and Data Science CMSE 201
+#### Concepts:
+1) Intro to Python
+2) Using Python to solve problems
+3) Python Libraries
+   - Numpy
+   - Scipy
+   - Matplotlib
+   - Pandas
+   - Seaborn
+
+4) Data Analysis
+   - Data Cleaning
+   - Data Visualization
+   - Data Modeling
+   - Data Prediction
+
+5) Modeling with ODE's(Ordinary Differential Equations)
+6) Agent Based Modeling
+
+Project(100%):
+- Using Genetic Algorithms to solve the traveling salesman problem
+GPA: 4.0
+
+
 ### Computer Architecture and Organization CSE 320
 
 #### Concepts:
@@ -193,6 +242,25 @@ GPA : 4.0
    3) A* Search
    4) DFS
    5) BFS
+
+GPA: 4.0
+
+### Computer Science Ethics CSE 300
+#### Concepts:
+1) Ethical Issues in Computer Science
+2) Freedom of Speech
+3) Ethical Foundations
+4) Privacy
+5) Intellectual Property
+6) Security
+7) Ethics in Data Science and Machine Learning
+8) Environmental Responsibility
+9) Bias
+10) Quality and Risk
+11) Professional Ethics and Responsibilities
+12) Impact of Data and Computing
+
+3 essays
 
 GPA: 4.0
 
@@ -262,9 +330,9 @@ GPA: 4.0
 
 Projects:
 1) Angry Sparty ( 1 Month Apporx. [421 Commits])
-   1) Led a team of 4 to create a game using wxWidgets and BOX2D
-   2) Won the Design Award
-   3) Designed UML Diagrams
+   - Led a team of 4 to create a game using wxWidgets and BOX2D
+   - Won the Design Award
+   - Designed UML Diagrams
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/48414198/210134413-0df9aa53-1ce1-4fc8-85fa-6fa05a3023b6.png">
 
@@ -289,5 +357,18 @@ GPA: 4.0
 2) Greedy Algorithms
 3) A lot more graphs
 
+
+### Self Taught System Design
+#### Concepts:
+1) Load Balancing
+2) Caching
+3) Client Server Model
+4) Storage and Database
+5) Availability, Scalability, Latency, Throughput and Consistency
+6) Replication and Sharding
+7) Proxies and Reverse Proxies
+8) Peer to Peer Networking
+9) Polling and Streaming(sockets)
+10) Network Protocols
 
 
