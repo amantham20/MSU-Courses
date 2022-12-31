@@ -275,6 +275,7 @@ Projects:
    -  Hell week
    -  100+ hours of work
 
+<img width="1112" alt="Project2" src="https://user-images.githubusercontent.com/48414198/210134260-cfd37373-a2a4-453c-8290-d7ec444b6cca.png">
 
 
 GPA: 4.0
