@@ -307,7 +307,7 @@ GPA: 4.0
       - TCP and reliable communication
       - Sockets, DHCP, DNS, NAT and HTTP
 
-LAB's:
+LAB's(100%):
 1) Caching
 2) Signals and Processes
 3) Pthreads and Deadlocks
@@ -328,7 +328,7 @@ GPA: 4.0
 7) Keyframe Animation
 8) UML Diagrams
 
-Projects:
+Projects(100%):
 1) Angry Sparty ( 1 Month Apporx. [421 Commits])
    - Led a team of 4 to create a game using wxWidgets and BOX2D
    - Won the Design Award
