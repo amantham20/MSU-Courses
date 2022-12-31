@@ -197,6 +197,8 @@ GPA : 4.0
 GPA: 4.0
 
 ### Computer Systems CSE 325
+#### Concepts
+1) 
 
 GPA: 4.0
 
