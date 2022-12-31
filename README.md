@@ -177,18 +177,18 @@ GPA: 4.0
    - Matplotlib
    - Pandas
    - Seaborn
-
 4) Data Analysis
    - Data Cleaning
    - Data Visualization
    - Data Modeling
    - Data Prediction
-
 5) Modeling with ODE's(Ordinary Differential Equations)
 6) Agent Based Modeling
 
 Project(100%):
 - Using Genetic Algorithms to solve the traveling salesman problem
+
+
 GPA: 4.0
 
 
