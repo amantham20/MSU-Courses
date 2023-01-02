@@ -338,7 +338,7 @@ Coding Coding Coding Coding Coding Coffee Coding
 8) UML Diagrams
 
 Projects(100%):
-1) Angry Sparty ( 1 Month Apporx. [421 Commits])
+1) Angry Sparty ( 1 Month Approx. [421 Commits])
    - Led a team of 4 to create a game using wxWidgets and BOX2D
    - Won the Design Award
    - Designed UML Diagrams
@@ -377,7 +377,7 @@ GPA: 4.0
 6) Replication and Sharding
 7) Proxies and Reverse Proxies
 8) Peer to Peer Networking
-9) Polling and Streaming(sockets)
+9) Polling and Streaming (sockets)
 10) Network Protocols
 
 
