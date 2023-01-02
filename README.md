@@ -272,7 +272,7 @@ Do no bad things.
 GPA: 4.0
 
 ### Computer Systems CSE 325
-A lot of this is just made up.
+A lot of computer things are just made up.
 #### Concepts
 1) Architecture
    1) Processors
