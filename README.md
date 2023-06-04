@@ -197,6 +197,27 @@ Project(100%):
 GPA: 4.0
 
 
+### Computational Modeling and Data Science 2 CMSE 202
+Python is but with OOPS.
+#### Concepts:
+1) Python Objects
+2) Comand Line Interface
+3) Git & Git Workflow
+4) Agent Based Modeling
+5) Graph Theory
+6) One-Dimension Regression
+7) Multiple Regression
+8) Logistic Regression
+9) Machine Learning
+10) Classification
+11) Principal Component Analysis
+12) Support vector machine
+
+Project:
+- Using Genetic Algorithms to develop a strong player for catan  <br />
+
+GPA: 4.0
+
 ### Computer Architecture and Organization CSE 320
 Circuts are fun for sure. Assembly depends on the day.
 #### Concepts:
